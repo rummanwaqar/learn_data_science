@@ -2,21 +2,8 @@
 
 Based on the [Siraj Raval Curriculum](https://www.youtube.com/watch?v=9rDhY1P3YLA)
 
-## Summary of Data Science Roles
-
-| Data Roles                               | Data Analyst   | ML Engineer    | Data Engineer  | Data Scientist |
-|------------------------------------------|----------------|----------------|----------------|----------------|
-| Programming Tools                        | Very Important | Very Important | Very Important | Very Important |
-| Data Visualization and Communication     | Very Important | Neutral        | Neutral        | Very Important |
-| Data Intuition                           | Neutral        | Very Important | Neutral        | Very Important |
-| Statistics                               | Neutral        | Very Important | Neutral        | Very Important |
-| Data Wrangling                           | Not Important  | Not Important  | Very Important | Very Important |
-| Machine Learning                         | Not Important  | Very Important | Not Important  | Very Important |
-| Software Engineering                     | Not Important  | Neutral        | Very Important | Neutral        |
-| Multivariate Calculus and Linear Algebra | Not Important  | Very Important | Not Important  | Neutral        |
-
-## Tools Used
-- Python, SQL, R, Tensorflow, Hadoop, MapReduce, Spark, GitHub
+## Tools Learned
+Python, SQL, R, Tensorflow, Hadoop, MapReduce, Spark
 
 ## Curriculum
 
@@ -24,7 +11,7 @@ Based on the [Siraj Raval Curriculum](https://www.youtube.com/watch?v=9rDhY1P3YL
 
 #### Week 1 - Learn Python
 - EdX https://www.edx.org/course/introduction-python-data-science-2
-- Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU 
+- Siraj Raval https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU
 
 #### Week 2 - Statistics & Probability
 - KhanAcademy https://www.khanacademy.org/math/statistics-probability
@@ -70,3 +57,16 @@ Based on the [Siraj Raval Curriculum](https://www.youtube.com/watch?v=9rDhY1P3YL
 
 #### Week 4 Kaggle Project #3
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
+
+## Summary of Data Science Roles
+
+| Data Roles                               | Data Analyst   | ML Engineer    | Data Engineer  | Data Scientist |
+|------------------------------------------|----------------|----------------|----------------|----------------|
+| Programming Tools                        | Very Important | Very Important | Very Important | Very Important |
+| Data Visualization and Communication     | Very Important | Neutral        | Neutral        | Very Important |
+| Data Intuition                           | Neutral        | Very Important | Neutral        | Very Important |
+| Statistics                               | Neutral        | Very Important | Neutral        | Very Important |
+| Data Wrangling                           | Not Important  | Not Important  | Very Important | Very Important |
+| Machine Learning                         | Not Important  | Very Important | Not Important  | Very Important |
+| Software Engineering                     | Not Important  | Neutral        | Very Important | Neutral        |
+| Multivariate Calculus and Linear Algebra | Not Important  | Very Important | Not Important  | Neutral        |
