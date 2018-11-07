@@ -9,6 +9,6 @@ machine learning. Most of the programming exercises will be based on Python and 
 
 ### Notebooks
 
-* [Associated rule mining](../week3/1_associated_rule_mining.ipynb)
-* [Linear Algebra Preliminaries](../week3/3_linear_algebra.ipynb)
-* [Regular Expressions](../week3/5_regex.ipynb)
+* [Associated rule mining](https://github.com/rummanwaqar/learn_data_science/blob/master/week3/1_associated_rule_mining.ipynb)
+* [Linear Algebra Preliminaries](https://github.com/rummanwaqar/learn_data_science/blob/master/week3/3_linear_algebra.ipynb)
+* [Regular Expressions](https://github.com/rummanwaqar/learn_data_science/blob/master/week3/5_regex.ipynb)
