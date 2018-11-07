@@ -16,8 +16,7 @@ Python, SQL, R, Tensorflow, Hadoop, MapReduce, Spark
 #### Week 2 - Statistics & Probability
 - KhanAcademy https://www.khanacademy.org/math/statistics-probability
 
-#### Week 3 Data Pre-processing, Data Visualization, Exploratory Data Analysis
-- EdX https://www.edx.org/course/introduction-to-computing-for-data-analysis
+#### [Week 3: Data Pre-processing, Data Visualization, Exploratory Data Analysis](week3.md)
 
 #### Week 4 Kaggle Project #1
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
