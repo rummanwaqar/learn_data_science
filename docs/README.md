@@ -18,6 +18,8 @@ Python, SQL, R, Tensorflow, Hadoop, MapReduce, Spark
 
 #### [Week 3: Data Pre-processing, Data Visualization, Exploratory Data Analysis](week3.md)
 
+**^^ IN PROGRESS**
+
 #### Week 4 Kaggle Project #1
 - Try your best at a competition of your choice from [Kaggle](https://www.kaggle.com/competitions).
 - Use [Kaggle Learn](https://www.kaggle.com/learn/overview) as a helpful guide
