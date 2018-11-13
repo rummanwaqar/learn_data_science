@@ -15,3 +15,4 @@ machine learning. Most of the programming exercises will be based on Python and 
 * [Tidy Data & Pandas](https://github.com/rummanwaqar/learn_data_science/blob/master/week3/7_pandas.ipynb)
 * [Visualization with Bokeh and Seaborn](https://github.com/rummanwaqar/learn_data_science/blob/master/week3/8_visualizations.ipynb)
 * [Relational Databases](https://github.com/rummanwaqar/learn_data_science/blob/master/week3/9_databases.ipynb)
+* [Numpy](https://github.com/rummanwaqar/learn_data_science/blob/master/week3/10_numpy.ipynb)
